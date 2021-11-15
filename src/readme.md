@@ -2,7 +2,7 @@
 
 Visual
 
-![Screenshot_2](https://user-images.githubusercontent.com/73224995/141696777-8d21348c-a212-4e30-9e3d-830c8c15e96c.png)
+![Screenshot_9](https://user-images.githubusercontent.com/73224995/141811393-785364ec-10a5-4f6c-859d-52e96031927f.png)
 
 You can skip the images and also they contain the links(when you click them, you go to other Site Pages)
 
