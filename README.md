@@ -40,4 +40,4 @@ My Buttons with contacts 2
 
 I did it by myself using Bootstrap🎆
 
-Thankyou for your attention!
+Thank you for your attention!
